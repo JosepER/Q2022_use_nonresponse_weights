@@ -5,7 +5,7 @@ Presentation at the Q2022 - Bias-variance trade off on the use of non-response w
 :man: Josep Espasa Reig - Data Scientist @ LIS - Cross-National Data  Center in Luxembourg
 
 ## Introduction
-:wave: Welcome to the repository of my presentation for the [Q2022](https://q2022.stat.gov.lt/lt/) conference in Vilnius!
+:wave: Welcome to the repository of my presentation for the [Q2022 - European Conference on Quality in Official Statistics](https://q2022.stat.gov.lt/lt/) conference in Vilnius!
 
 ## Contents
 Here you will find a short [summary of the presentation](#summary--tldr) and the [paper in PDF](https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf) format.
