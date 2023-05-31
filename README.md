@@ -11,7 +11,7 @@ Presentation at the Q2022 - Bias-variance trade off on the use of non-response w
 Here you will find a short [summary of the presentation](#summary--tldr) and the [paper in PDF](https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf) format.
 
 ## Summary / TL;DR:
-:question: Should inequality researchers use person-level weights instead of household-level ones if these are available? 
+:question: *Should inequality researchers use person-level weights instead of household-level ones if these are available?*
 
 In recent years, some National Statistical Offices have started producing weights at individual-level. Compared to those at household-level, these contain an extra 
 adjustment by the non-response propensity of individuals. This adjustment might imply more variance in weights and thus larger Standard Errors for estimates. If the variables used to correct for individual non-response are not associated with those used for inequality analyses, then there wouldn't be any benefit using the individual-level weights.
