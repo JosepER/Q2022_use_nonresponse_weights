@@ -25,6 +25,9 @@ The paper uses LIS datasets for Germany and US. When using person-level weights 
 Researchers should therefore use person-level weights whenever available, as they are most likely reducing bias. They should, however, be aware that this adjustment comes at a cost of decreased precision in estimates.
 
 ### Paper in PDF
+
+<embed src="https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf" type="application/pdf">
+
 <object data="https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JosepER/Q2022_use_nonresponse_weights/blob/main/presentation/person_nonresponse_inequality.pdf">Download PDF</a>.</p>
